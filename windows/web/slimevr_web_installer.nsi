@@ -42,22 +42,22 @@ Unicode True
 # Define the Java Version Strings and to Check (JRE\relase -> JAVA_RUNTIME_VERSION=)
 !define JREVersion "17.0.17+10"
 !define JREURLType "url" ; "url" or "local"
-!define JREDLURL "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.17%2B10/OpenJDK17U-jre_x64_windows_hotspot_17.0.17_10.zip"
+!define JREDLURL "https://www.modelscope.cn/datasets/xlxgxlxg/slimevr/resolve/master/OpenJDK17U-jre_x64_windows_hotspot_17.0.17_10.zip"
 !define JREDLFileZip "OpenJDK17U-jre_x64_windows_hotspot_17.0.17_10.zip"
 
 !define SVRServerVersion "latest"
 !define SVRServerURLType "url" ; "url" or "local"
-!define SVRServerDLURL "https://github.com/SlimeVR/SlimeVR-Server/releases/latest/download/SlimeVR-win64.zip"
+!define SVRServerDLURL "https://www.modelscope.cn/datasets/xlxgxlxg/slimevr/resolve/master/SlimeVR-win64.zip"
 !define SVRServerDLFileZip "SlimeVR-Server-latest.zip"
 
 !define SVRDriverVersion "latest"
 !define SVRDriverURLType "url" ; "url" or "local"
-!define SVRDriverDLURL "https://github.com/SlimeVR/SlimeVR-OpenVR-Driver/releases/latest/download/slimevr-openvr-driver-win64.zip"
+!define SVRDriverDLURL "https://www.modelscope.cn/datasets/xlxgxlxg/slimevr/resolve/master/slimevr-openvr-driver-win64.zip"
 !define SVRDriverDLFileZip "slimevr-openvr-driver-win64.zip"
 
 !define SVRFeederVersion "latest"
 !define SVRFeederURLType "url" ; "url" or "local"
-!define SVRFeederDLURL "https://github.com/SlimeVR/SlimeVR-Feeder-App/releases/latest/download/SlimeVR-Feeder-App-win64.zip"
+!define SVRFeederDLURL "https://www.modelscope.cn/datasets/xlxgxlxg/slimevr/resolve/master/SlimeVR-Feeder-App-win64.zip"
 !define SVRFeederDLFileZip "SlimeVR-Feeder-App-latest.zip"
 
 Var JREneedInstall
